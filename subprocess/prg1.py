@@ -8,7 +8,7 @@ cmd_list = sys.argv[1:]
 #cmd=["ls", "-lrth"]
 
 completed = subprocess.run(cmd_list)
-
+print (completed)
 print ("Completed Code:" ,completed.returncode)
 
 if (completed.returncode == 0):
