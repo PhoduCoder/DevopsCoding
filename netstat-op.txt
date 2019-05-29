@@ -1,0 +1,24 @@
+Proto Recv-Q Send-Q  Local Address          Foreign Address        (state)    
+tcp4       0      0  gauravs-mbp.fios.51773 server-13-33-73-.https ESTABLISHED
+tcp4       0      0  gauravs-mbp.fios.51769 192.184.68.205.https   ESTABLISHED
+tcp4       0      0  gauravs-mbp.fios.51768 151.101.65.69.https    ESTABLISHED
+tcp4       0      0  gauravs-mbp.fios.51767 a104-84-148-238..https ESTABLISHED
+tcp4       0      0  gauravs-mbp.fios.51764 whatsapp-cdn-shv.https ESTABLISHED
+tcp4       0      0  gauravs-mbp.fios.51763 a23-52-163-40.de.https ESTABLISHED
+tcp4       0      0  gauravs-mbp.fios.51761 lga34s14-in-f5.1.https ESTABLISHED
+tcp4       0      0  gauravs-mbp.fios.51760 104.16.120.127.https   ESTABLISHED
+tcp4       0      0  gauravs-mbp.fios.51759 server-13-33-73-.https ESTABLISHED
+tcp4       0      0  gauravs-mbp.fios.51758 server-13-33-73-.https ESTABLISHED
+tcp4       0      0  gauravs-mbp.fios.51757 151.101.208.233.https  ESTABLISHED
+tcp4       0      0  gauravs-mbp.fios.51756 104.244.42.5.https     ESTABLISHED
+tcp4       0      0  gauravs-mbp.fios.51751 104.244.42.3.https     ESTABLISHED
+tcp4       0      0  gauravs-mbp.fios.51745 151.101.209.194.https  ESTABLISHED
+tcp4       0      0  gauravs-mbp.fios.51743 a173-223-103-77..https ESTABLISHED
+tcp4       0      0  gauravs-mbp.fios.51742 server-13-33-81-.https ESTABLISHED
+tcp4       0      0  gauravs-mbp.fios.51741 server-13-33-73-.https ESTABLISHED
+tcp4       0      0  gauravs-mbp.fios.51737 151.101.208.233.https  ESTABLISHED
+tcp4       0      0  gauravs-mbp.fios.51736 151.101.210.109.https  ESTABLISHED
+tcp4       0      0  gauravs-mbp.fios.51735 192.0.73.2.https       ESTABLISHED
+tcp4       0      0  gauravs-mbp.fios.51733 104.16.24.4.https      ESTABLISHED
+tcp4       0      0  gauravs-mbp.fios.51732 104.16.77.166.https    ESTABLISHED
+
